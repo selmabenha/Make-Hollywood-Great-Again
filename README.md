@@ -1,3 +1,5 @@
+![Graph](plots/HollywoodPoster.png)
+
 # Abstract
 
 The film industry has been with us for well over a century and spans all corners of the globe. With the advent of American political and economic power, which has grown through the past century, its soft power has as well. Thanks in large part to the world renowned Hollywood, the highest worldwide grossing movies are made in America. Therefore, we are interested in researching the impact that their rise to worldwide cinema dominance has had on its domestic performance. We hypothesize that throughout the years as English became the 'lingua franca' of the world and Hollywood gained in international popularity, the percentage of revenue coming from foreign countries increased. Furthermore, we would like to determine what movies genres are more successful domestically and with foreign countries. Poring through this data will help determine the key factors needed to realize a worldwide box office hit for major Hollywood studios.
