@@ -1,4 +1,4 @@
-![Graph](plots/HollywoodPoster.png)
+![Graph](/plots/HollywoodPoster.png)
 
 # Abstract
 
